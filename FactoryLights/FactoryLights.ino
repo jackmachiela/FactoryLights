@@ -3,7 +3,7 @@
 // Connections:
 // LED Strips (all PWM pins, UNO has 3, 5, 6, 9, 10, 11 available):
 // 
-//   D3  ----- GND (eventually more; one per cupboard shelf)
+//   D3 <--> GND (eventually more; one per cupboard shelf)
 // 
 // 
 // Power (5v):
